@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JackTheJacob
-- 👀 I’m interested in computer graphics, natural language processing, and physics simulation.
-- 🌱 I’m currently learning Swift and Python.
-- 💞️ I’m looking to collaborate on data collection and twitter bots.
+- 👀 I’m interested in computer graphics, federated learning, natural language processing, and physics simulation.
+- 🌱 I’m currently learning Python and Avalanche.
+- 💞️ I’m looking to collaborate on twitter bots.
 - 📫 How to reach me: jmgurdin@gmail.com.
